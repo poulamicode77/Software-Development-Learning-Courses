@@ -1,0 +1,81 @@
+1.
+Question 1
+The idea of having separate, small pieces of code that are easy to test is called what?
+
+Ans --> Unit Testing
+
+2.
+Question 2
+When the following test executes, what will the test result be?
+
+Ans --> Success
+
+3.
+Question 3
+True or False: End-to-end testing is the slowest and most expensive type of testing.
+
+Ans --> True
+
+4.
+Question 4
+For what reason would you want to know about your code coverage?
+
+Ans --> It lets you know where more testing may required.
+
+5.
+Question 5
+Which of the following runtimes are typically used for building backends?
+
+Ans --> Node.js
+
+6.
+Question 6
+Which of the following is NOT one of the three types of testing?
+
+Ans --> Post-hoc testing
+
+7.
+Question 7
+Which command is used to install a Node package?
+
+Ans --> npm
+
+8.
+Question 8
+True or False: If you have built a project with different node packages, they will all be listed inside the package.json file.
+Ans --> True
+
+9.
+Question 9
+A person on your team wants to help with testing. However, they are not a developer and cannot write code. What type of testing is most suited for them?
+
+Ans --> End-to-end testing
+
+10.
+Question 10
+In Jest you use mocking by employing which of the following?
+
+Ans --> Jest Mock functions
+
+11.
+Question 11
+Which of the following is a framework that can help you run a unit test?
+
+Ans --> Jest
+
+12.
+Question 12
+What is integration testing?
+
+Ans --> Integration testing tests how parts of your system interact with other parts of your system.
+
+13.
+Question 13
+True or False: End-to-end tests can be performed in a web browser without writing code. 
+
+Ans --> True
+
+
+
+
+

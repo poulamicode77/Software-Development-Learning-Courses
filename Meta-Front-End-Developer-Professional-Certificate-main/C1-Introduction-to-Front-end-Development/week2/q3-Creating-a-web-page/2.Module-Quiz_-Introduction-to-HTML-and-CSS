@@ -1,0 +1,68 @@
+1.
+Question 1
+Which two elements should be added to the html element to make the structure of an HTML document?
+<!DOCTYPE html>
+<html>
+</html>
+Ans--> <head>, <body>
+
+2.
+Question 2
+When using the anchor tag <a>, which attribute determines where the hyperlink links to? 
+Ans--> href
+
+3.
+Question 3
+When adding an image to a web page, which of the following is the correct HTML tag?
+Ans--> <img>
+
+4.
+Question 4
+How many columns exist on the following HTML table?
+Ans--> 2 columns
+
+5.
+Question 5
+When an HTML form is submitted to a web server, which HTTP methods can be used? Select all that apply.
+Ans--> POST, GET
+
+6.
+Question 6
+For the following HTML code, which CSS selectors can be used to select the h1 element? Select all that apply.
+<h1> id="title">Welcome</h1>
+Ans--> Element selector, ID selector
+
+7.
+Question 7
+In the following CSS code, what is the color: part known as?
+Ans--> h1 {
+    color: purple;
+} 
+Ans--> CSS Property
+
+8.
+Question 8
+Based on the following CSS, what will be the margin-box width for div elements?
+Ans--> div {
+    width: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+Ans--> 30 pixels
+
+9.
+Question 9
+True or false. In document flow, block-level elements always start on a new line.
+Ans--> True
+
+10.
+Question 10
+Based on the following CSS code, how will the text be aligned for the p element?
+p {
+    text-align: justify;
+}
+Ans--> The text will be spread out so that every line of the text has the same width within the p element.
+
+

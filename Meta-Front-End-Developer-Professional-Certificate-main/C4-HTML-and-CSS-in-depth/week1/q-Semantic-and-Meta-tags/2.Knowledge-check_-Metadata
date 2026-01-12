@@ -1,0 +1,33 @@
+1.
+Question 1
+What are some of the main characteristics of meta tags? Select all that apply.   
+Ans-->They are very important for SEO
+      They define metadata about an HTML document, namely information about data
+      They don’t have a visual representation in your pages  
+
+2.
+Question 2
+What are some of the most important Meta tags you should use for good SEO? Select all that apply.   
+Ans--> Title, Description, 
+Image alt attributes  
+
+3.
+Question 3
+Which meta tag is used to specify the character encoding for the HTML document?  
+Ans--> charset
+
+4.
+Question 4
+Which meta tag and properties do you need to set to make your pages responsive in desktop and mobile viewports?  
+Ans--> <meta name=”viewport” content=”width=device-width, initial-scale=1”  />
+
+5.
+Question 5
+How do you tell Google you don’t want to provide an automatic translation for your page if the user uses a different language?   
+Ans--> <meta name=”googlebot” content=”notranslate”  />
+
+6.
+Question 6
+Which of the following statements are true about HTTP-equiv tags? Select all that apply. 
+Ans--> They can simulate HTTP response headers
+       They are useful if you don’t have access to the server configuration

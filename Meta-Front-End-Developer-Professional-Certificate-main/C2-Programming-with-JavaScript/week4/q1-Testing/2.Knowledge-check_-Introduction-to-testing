@@ -1,0 +1,39 @@
+1.Question 1
+What is the correct way to export the  timesTwo  function as a module so that Jest can use it in testing files?
+
+Ans --> module.exports = timesTwo;
+
+2.Question 2
+Testing is a way to verify the expectations you have regarding the behavior of your code.
+Ans --> true
+
+3. Question3
+Node.js can be used to build multiple types of applications. Select all that apply.
+  
+Ans --> Command line application
+        Desktop applications
+        Web application backends
+
+4.
+Question 4
+When the following test executes, what will the test result be?
+
+    function add(a, b) {
+        return a + b;
+    }
+
+    expect(add(10, 5)).toBe(16);
+Ans --> Fail
+
+5.
+Question 5
+Which of the following is the slowest and most expensive form of testing?
+
+Ans --> End-to-end testing(e2e)
+
+6.
+Question 6
+Mocking allows you to separate the code that you are testing from its related dependencies.
+
+Ans --> True
+

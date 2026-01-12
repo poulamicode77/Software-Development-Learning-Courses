@@ -1,0 +1,34 @@
+1.
+Question 1
+Each square block in a table is called a:
+Ans--> cell 
+
+2.
+Question 2
+What attribute can you add inside an audio tag to enable player controls such as the pause and volume buttons? 
+Ans--> controls
+
+3.
+Question 3
+While using the canvas element from the HTML file inside your JavaScript file, 
+you pass the value of the id attribute of the canvas to the document.getDocumentById() function in your JavaScript code.
+Ans--> False
+
+4.
+Question 4
+Which of the following attributes can you add to an iFrame to improve the security of the web page where the iFrame is added? Choose all that apply.
+Ans--> sandbox="", 
+       allow="microphone 'none';" 
+       allow="camera 'none';"
+
+5.
+Question 5
+GIF, 2D Canvas and WebGL are types of authoring tools.
+Ans--> False
+
+6.
+Question 6
+.mp4 is a type of
+Ans--> File extension
+
+
