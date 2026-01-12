@@ -1,0 +1,26 @@
+1.
+Question 1
+What makes SQL a popular database language? Select all that apply:
+Ans--> It works with different relational database management systems
+       It is a portable programming language 
+       It is an easy programming language to understand and learn. 
+
+2.
+Question 2
+Which of the following actions can be completed by using SQL commands from the Data Manipulation Language (DML) category? Select all that apply:
+Ans--> Update data, Select data, Insert data.
+
+3.
+Question 3
+The SELECT command should be used to retrieve data from a database table. True or false?
+Ans--> True
+
+4.
+Question 4
+Which SQL syntax should be used to create a student table? 
+Ans--> CREATE TABLE Student 
+
+5.
+Question 5
+Choose the correct syntax to create a college database in SQL. 
+Ans--> CREATE DATABASE COLLEGE

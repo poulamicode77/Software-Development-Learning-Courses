@@ -1,0 +1,37 @@
+1.
+Question 1
+What is the data type of the value "Hello, World"?
+Ans--> string
+
+2.
+Question 2
+What is the data type of the value  true ?
+Ans--> Boolean
+
+3.
+Question 3
+What is the % operator?
+Ans--> The modulus operator
+
+4.
+Question 4
+What happens when you use the + operator on two strings?
+Ans--> They get joined into a single string
+
+5.
+Question 5
+What is the operator symbol && represent in JavaScript?
+Ans--> The logical AND operator
+
+6.
+Question 6
+What happens when you use the + operator on a string and a number?
+Ans--> They get joined together as if both of them were strings
+
+7.
+Question 7
+What is the value of  i  after the following code runs?
+ var i = 7;
+ i += 1;
+ i += 2;
+ Ans--> 10

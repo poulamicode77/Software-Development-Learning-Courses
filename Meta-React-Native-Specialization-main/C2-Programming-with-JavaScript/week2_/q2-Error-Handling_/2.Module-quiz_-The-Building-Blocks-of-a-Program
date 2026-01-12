@@ -1,0 +1,87 @@
+1.
+Question 1
+What data type is the variable  x ?
+var x = {};
+Ans--> Object
+
+2.
+Question 2
+What will be the output of running the following code? 
+try {
+console.log('hello)
+} catch(e) {
+console.log('caught')
+}
+Ans--> Uncaught SyntaxError: Invalid or unexpected token.
+
+3.
+Question 3
+What value is printed when the following code runs?
+var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"];
+  console.log(burger[2]);
+Ans--> lettuce
+
+4.
+Question 4
+In the following code, how many methods does the  bicycle  object have?
+var bicycle = {
+      wheels: 2,
+      start: function() {
+
+      },
+      stop: function() {
+
+      }
+  };
+Ans--> 2
+
+5.
+Question 5
+When the following code runs, what will print out?
+  try {
+    throw new Error();
+    console.log('Hello');
+  } catch(err) {
+    console.log('Goodbye');
+  }
+  Ans--> Goodbye
+
+6.
+Question 6
+If you mis-type some code in your JavaScript, what kind of error will that result in?
+Ans--> SyntaxError
+
+7.
+Question 7
+Will the following code execute without an error?
+  function add(a, b) {
+    console.log(a + b)
+  }
+
+  add(3, "4");
+  Ans--> Yes
+
+8.
+Question 8
+What will be printed when the following code runs?
+var result;
+console.log(result);
+Ans--> undefined
+
+9.
+Question 9
+What will be the output of the following code?
+var str = "Hello";
+str.match("jello");
+Ans--> null
+
+10.
+Question 10
+What will be the output of the following code?
+try {
+Number(5).toPrecision(300)
+} catch(e) {
+console.log("There was an error")
+}
+Ans--> 
+"There was an error"

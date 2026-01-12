@@ -1,0 +1,76 @@
+1.
+Question 1
+You can run JavaScript in a web browser's devtools console.
+Ans--> true
+
+2.
+Question 2
+Which of the following are valid comments in JavaScript? Select all that apply.
+Ans-->   // Comment 2 ,   ##
+  ## Comment 3
+  ##,
+    /*
+   * Comment 4
+   */
+
+3.
+Question 3
+Which of the following are valid data types in JavaScript? Select all that apply.
+Ans--> string, numbers, booleans, null
+
+4.
+Question 4
+Which of the following is the logical AND operator in JavaScript?
+Ans--> &&
+
+5.
+Question 5
+Which of the following is the assignment operator in JavaScript?
+Ans--> =
+
+6.
+Question 6
+How many times will the following code print the word 'Hello'?
+
+  for(var i = 0; i <= 5; i++) {
+    console.log("Hello");
+  }
+Ans--> 6
+
+7.
+Question 7
+What will print out when the following code runs?
+
+  var i = 3;
+  var j = 5;
+
+  if(i == 3 && j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+Ans--> Goodbye
+
+8.
+Question 8
+What will print out when the following code runs?
+
+  var i = 7;
+  var j = 2;
+
+  if(i < 7 || j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+Ans--> Hello
+
+9.
+Question 9
+The result of !false is:
+Ans--> true
+
+10.
+Question 10
+What does the operator symbol || represent in JavaScript?
+Ans--> The logical OR operator

@@ -1,0 +1,57 @@
+1.
+Question 1
+The following SQL statement creates a table named staff within a database: 
+CREATE staff TABLE
+True or false?
+Ans--> False
+
+2.
+Question 2
+The following SQL statement creates a table named staff, with two columns called name and address: 
+CREATE TABLE staff (name VARCHAR(100), address VARCHAR(100));
+True or false?
+ANs--> True
+
+3.
+Question 3
+What is the SQL command to add a new record of data in the staff table?
+Ans--> INSERT INTO staff
+
+4.
+Question 4
+Which is the right command syntax to update records in the staff table in SQL?
+Ans--> UPDATE staff
+
+5.
+Question 5
+The EDIT command is used to modify data in a database table. True or false?
+Ans--> False
+
+6.
+Question 6
+Which one of the following SQL statements updates the email address for the individual named Karl in the staff table? 
+Ans--> UPDATE staff SET email = 'Karl@email.com' WHERE ID = 16;
+
+7.
+Question 7
+Select the right keyword to complete the missing part of the following statement:  
+INSERT INTO staff (ID, name) ... (7, “Tom”)
+Ans--> Values
+
+8.
+Question 8
+A staff table consists of three columns called name, email and age. Which of the following SQL statements selects 
+all available data in all three columns in the staff table? Select all that apply:
+Ans--> SELECT * FROM staff, SELECT name, email, age FROM staff,
+
+9.
+Question 9
+The following SQL statement returns all staff phone numbers from the staff table:  
+Select phoneNumber from staff
+True or false?
+Ans--> True
+
+10.
+Question 10
+Which of the following SQL statements deletes all records of data from the staff table without deleting the table itself? Select all that apply:
+Ans--> DELETE FROM staff, TRUNCATE TABLE staff
