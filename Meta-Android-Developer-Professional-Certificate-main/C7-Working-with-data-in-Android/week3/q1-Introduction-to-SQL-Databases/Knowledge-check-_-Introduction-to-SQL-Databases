@@ -1,0 +1,24 @@
+1.
+Question 1
+Which database model uses only tables to store data?
+Ans--> Relational databases
+
+2.
+Question 2
+Which of the following is a key advantage of organizing data in tables?
+Ans--> To provide a clear view of data 
+
+3.
+Question 3
+The SELECT command should be used to retrieve data from a database table. True or false?
+Ans--> True
+
+4.
+Question 4
+Which SQL syntax should be used to create a student table?
+Ans--> CREATE TABLE Student;
+
+5.
+Question 5
+Choose the correct syntax to create a college database in SQL.
+Ans--> CREATE DATABASE College;

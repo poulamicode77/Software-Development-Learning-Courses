@@ -1,0 +1,44 @@
+1.
+Question 1
+What will be printed when the following code runs?
+ var result = null;
+  console.log(result);
+Ans--> null
+
+2.
+Question 2
+When the following code runs, what will print out?
+ try {
+    console.log('Hello');
+  } catch(err) {
+    console.log('Goodbye');
+  }
+
+Ans--> Hello
+
+3.
+Question 3
+If you pass an unsupported data type to a function, what error will be thrown?
+Ans--> TypeError
+
+4.
+Question 4
+What will print out when the following code runs?
+ var x;
+
+  if(x === null) {
+    console.log("null");
+  } else if(x === undefined) {
+    console.log("undefined");
+  } else {
+    console.log("ok");
+  }
+Ans--> undefined
+
+5.
+Question 5
+What will print out when the following code runs?
+  throw new Error();
+  console.log("Hello");
+Ans-->
+Nothing will print out.

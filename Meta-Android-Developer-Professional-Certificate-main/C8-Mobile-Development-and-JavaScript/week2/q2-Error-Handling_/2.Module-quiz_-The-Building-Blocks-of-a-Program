@@ -1,0 +1,54 @@
+Which part of the below statement is an object?
+const car = {type:"Ford", model:"Model T", color:"white"}; 
+Ans--> car
+
+2.
+Question 2
+What will be the output of running the following code? 
+try { console.log('hello) } catch(e) { console.log('caught') } 
+Ans--> Uncaught SyntaxError: Invalid or unexpected token
+
+3.
+Question 3
+What value is printed when the following code runs?
+var burger = ["bun", "beef", "lettuce", "tomato sauce", "onion", "bun"]; console.log(burger[2]); 
+Ans--> lettuce
+
+4.
+Question 4
+True or False: An object consists of key-value pairs, known as properties.
+Ans--> true
+
+5.
+Question 5
+When the following code runs, what will print out?
+try { throw new Error(); console.log('Hello'); } catch(err) { console.log('Goodbye'); } 
+Ans--> Goodbye
+
+6.
+Question 6
+If you mistype some code in your JavaScript, what kind of error will that result in?
+Ans--> SyntaxError
+
+7.
+Question 7
+Which of the below will be the output of the following code?
+(10).toString(100);
+Ans--> Undefined
+
+8.
+Question 8
+What will be printed when the following code runs?
+var result; console.log(result); 
+Ans--> undefined
+
+9.
+Question 9
+What represents the intentional absence of any object value?
+Ans--> null
+
+10.
+Question 10
+What will be the output of the following code?
+try { Number(5).toPrecision(300) } catch(e) { console.log("There was an error") } 
+Ans--> There was an error

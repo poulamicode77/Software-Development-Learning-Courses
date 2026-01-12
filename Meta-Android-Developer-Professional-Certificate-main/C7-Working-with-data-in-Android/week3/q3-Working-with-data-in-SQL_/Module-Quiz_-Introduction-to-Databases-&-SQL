@@ -1,0 +1,57 @@
+1.
+Question 1
+Which of the following SQL statements creates a table named staff within a database?
+Ans--> CREATE TABLE staff
+
+2.
+Question 2
+What is the SQL command to add a new record of data in the staff table?
+Ans--> INSERT INTO staff
+
+3.
+Question 3
+Select the right keyword to fill in the blank in the following SQL statement.
+Ans--> Values
+
+4.
+Question 4
+What is the name for electronic storage in which data is organized systematically?
+Ans--> database
+
+5.
+Question 5
+What is the purpose of SQL?
+Ans--> To provide a standard language for interacting with databases.
+
+6.
+Question 6
+What is the name for a field that deliberately contains unique values that cannot be replicated elsewhere in the table in order to uniquely identify rows in a table?
+Ans--> primary key
+
+7.
+Question 7
+What needs to be added to tables in order for them to be joined?
+Ans--> a primary key and a foreign key
+
+8.
+Question 8
+What type of database stores data as nodes and edges?
+Ans--> graph
+
+9.
+Question 9
+Which of the following best describes the way that document databases store data?
+Ans--> as JSON
+
+10.
+Question 10
+What SQL datatype is used to store fractional numbers?
+Ans--> DECIMAL
+
+
+
+
+
+
+
+

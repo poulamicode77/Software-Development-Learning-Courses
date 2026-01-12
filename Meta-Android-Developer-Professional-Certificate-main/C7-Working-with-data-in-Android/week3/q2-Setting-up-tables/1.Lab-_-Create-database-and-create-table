@@ -1,0 +1,4 @@
+CREATE DATABASE bookshop;
+USE bookshop;
+CREATE TABLE customers (customerID int, customerName varchar(50), customerAddress varchar(255)); 
+SHOW tables;
