@@ -1,0 +1,24 @@
+1.
+Question 1
+To reference a JavaScript script or file in an HTML document, you use the ______________ tag.
+Ans--> script
+
+2.
+Question 2
+If your application requires a library or framework to run, this is called a ______________.
+Ans--> dependency
+
+3.
+Question 3
+A point at which a website's content and design will adapt in order to provide the best user experience is called a ______________.
+Ans--> Breakpoint
+
+4.
+Question 4
+The Bootstrap Grid System always starts with which element?
+Ans--> Container
+
+5.
+Question 5
+The responsive breakpoint for Bootstrap CSS rules is determined by the ______________?
+Ans--> Infix

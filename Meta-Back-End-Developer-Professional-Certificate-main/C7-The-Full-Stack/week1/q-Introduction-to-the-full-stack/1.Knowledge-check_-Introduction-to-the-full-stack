@@ -1,0 +1,27 @@
+1.
+Question 1
+If clients do not run business logic and are mostly used for presenting data coming from the server, what are they called?
+Ans--> Thin client
+
+2.
+Question 2
+Which stack can run JavaScript? Choose all that apply.
+Ans--> Front-end stack
+       Back-end stack
+       Full stack
+
+3.
+Question 3
+To be a full stack developer, you need to know front-end, back-end as well as databases. 
+Ans--> True
+
+4.
+Question 4
+When different parts of an application are physically separated from each other, what are they called?
+Ans--> Tiers
+
+5.
+Question 5
+Both 3-tier and 4-tier architecture are N-tier architectures.
+Ans--> True
+

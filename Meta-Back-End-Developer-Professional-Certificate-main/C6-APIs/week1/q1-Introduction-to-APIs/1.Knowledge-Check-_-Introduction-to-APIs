@@ -1,0 +1,4 @@
+1.
+Question 1
+Why is communicating over HTTPS more secure than HTTP? 
+Ans--> Encryption and decryption are performed both on the client- and server-side. 

@@ -1,0 +1,24 @@
+1.
+Question 1
+Is a string in Python a sequence?
+Ans--> Yes
+
+2.
+Question 2
+In Python, what symbol is used for comments in code?
+Ans--> #
+
+3.
+Question 3
+What type will be assigned to the following variable: x = 4?
+Ans--> int - Integer
+
+4.
+Question 4
+Python allows for both implicit and explicit data type conversions?
+Ans--> True
+
+5.
+Question 5
+A variable called name is assigned the value of “Testing”. What will the output of the following equal - print(len(name));
+Ans--> 7

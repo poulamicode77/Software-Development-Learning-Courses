@@ -1,0 +1,25 @@
+1.
+Question 1
+What data type is the variable item ?
+Ans--> Array
+
+2.
+Question 2
+What does the document variable return in JavaScript?
+console.log(document); 
+Ans--> The entire web page in the browser's memory, as a JavaScript object.
+
+3.
+Question 3
+What happens when you use the + operator on a string and a number?
+Ans--> They get joined together as if both of them were strings 
+
+4.
+Question 4
+In software development, a framework provides a structure for developers to build an application.
+Ans--> True
+
+5.
+Question 5
+What is the % operator?
+Ans--> The modulus operator

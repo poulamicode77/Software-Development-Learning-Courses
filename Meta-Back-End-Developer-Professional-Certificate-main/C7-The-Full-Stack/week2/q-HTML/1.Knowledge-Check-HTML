@@ -1,0 +1,22 @@
+Question 1.
+You are including a blog post on your web page. You decide to place the content inside an <article> tag.
+What are the advantages of using an <article> tag instead of a <div> tag in the scenario? Select all that apply.
+Ans--> It better describes the meaning of the element to accessibility software.
+It allows search engines to better rank your page.
+
+Question 2
+Which tag is most suited to describe the navigation menu of your web page?
+Ans--> <nav>
+
+Question 3
+If the action attribute of a form is not specified, the form can still be submitted. 
+Ans--> True
+
+Question 4
+What is the benefit of adding the required attribute to an input element?
+Ans--> It will ensure that the user provides a value for the form field
+
+Question 5
+You've added a form element to your HTML document and set the value of the method attribute to POST. 
+What is the other valid HTTP method for form submission?
+Ans--> GET

@@ -1,0 +1,39 @@
+1.
+Question 1
+If a library depends on another library, it forms a ______________.
+Ans--> Dependency Tree
+
+2.
+Question 2
+How many columns does Bootstrap's responsive grid consist of?
+Ans--> 12
+
+3.
+Question 3
+To change the style of a Bootstrap component, you use  ______________.\
+Ans--> modifier
+
+4.
+Question 4
+To improve performance, web servers can keep a copy of dynamic content in a ______________.
+Ans--> Cache
+
+5.
+Question 5
+What are the two main approaches for serving code and resources in a Single Page Application called? Select two.
+Ans--> Bundling, Package
+
+6.
+Question 6
+React is a ______________ that can be used to create single page applications.
+Ans--> Library
+
+7.
+Question 7
+Components allow developers to improve development efficiency by reusing code.
+Ans--> True
+
+8.
+Question 8
+A React application is built up of a tree of components called the Component ______________.''
+Ans--> Hierarchy

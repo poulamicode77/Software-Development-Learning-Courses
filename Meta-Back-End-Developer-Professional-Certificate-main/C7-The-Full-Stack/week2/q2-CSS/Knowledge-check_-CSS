@@ -1,0 +1,25 @@
+1.
+Question 1
+ Which of the following is a two-dimensional layout model that can be created in CSS?    
+Ans--> Grid Model
+
+2.
+Question 2
+Which of the following units of measurements are directly associated with the font sizing in CSS? Choose all that apply.
+Ans--> em, rem, ch
+
+3.
+Question 3
+The grid items by default will start at the ________ of the grid container. 
+Ans--> top left
+
+4.
+Question 4
+Which of the following properties is not a part of the shorthand flex property? 
+Ans--> flex-wrap
+
+5.
+Question 5
+What styling property will you apply if you want to rotate an object 60 degrees in a counter clockwise direction?
+Ans--> 
+transform: rotate(-60deg)
