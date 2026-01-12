@@ -1,0 +1,72 @@
+1.
+Question 1
+Why is it important to be very precise about what a computer program is supposed to do?
+Ans--> Computers do exactly what they are told.
+
+2.
+Question 2
+Which of the following are true about programming languages? Select all that apply.
+Ans--> Similar to human language, programming languages use syntax and semantics.
+Programming languages are used to write computer programs and scripts.
+Some common programming languages include Python, Java, C, C++, C#, and R.
+
+3.
+Question 3
+What are some tasks that might be a good fit for full automation? Select all that apply.
+Ans--> Detecting and removing duplicate data
+Updating specific files on multiple computers
+
+4.
+Question 4
+What is the difference between syntax and semantics in a programming language?
+Ans--> Syntax is a set of rules for how statements are constructed. Semantics refers to the intended meaning or effect of statements. 
+
+5.
+Question 5
+What is the program that reads and executes Python code by translating it to computer instructions called?
+Ans--> Interpreter
+
+6.
+Question 6
+Write a Python script that outputs "Automating with Python is fun!" to the screen. Remember that syntax precision is important in programming languages.
+A missing capital letter, spelling error, or punctuation mark can produce errors.
+Ans--> print("Automating with Python is fun!")
+
+7.
+Question 7
+What should be the output of the expression below? 
+print(2+2/((2+2)+(2**2)))
+Ans--> 2.25
+
+8.
+Question 8
+Assuming there are 60 minutes in an hour, write a program that calculates the number of minutes in a 24 hour day.
+Print the result on the screen. Note: Your result should be in the format of just a number, not a sentence.
+Ans--> # Enter code here:
+print(24*60)
+# Should print 1440
+
+9.
+Question 9
+In a passcode where each digit of the passcode is independent of the other digits and each digit can be any numeral from 0 through 9, the total number of combinations is the number of possibilities for each digit raised to the power of the length of the passcode. So, for a 1-numeral passcode, there would be 10 possibilities; one for every numeral from 0 to 9.  For a 2-numeral passcode, each numeral is independent of the other, so there would be 10 times 10 possibilities. 
+Using this information, use Python to calculate and print the number of possible passwords that can be formed with 3 numerals. 
+Note: Your result should be in the number format, not a sentence.
+Ans--> # Should print 1000
+print(10**3)
+
+10.
+Question 10
+Consider this scenario about using Python to make calculations:
+On a college campus, there are 30 computers in each of the 20 computer labs that are spread across campus.  The computers have a life cycle where they are replaced every five  years. One-fifth of the computers are replaced each year. 
+Fill in the blank to calculate the number of computers that are replaced each year by dividing the total computers by the replacement cycle. Note: Your result should be a number. 
+Ans--> total_computers = 30*20
+replacement_cycle = 5
+computers_per_year = total_computers/replacement_cycle
+print(computers_per_year) # Should print 120.0
+
+
+
+
+
+
+

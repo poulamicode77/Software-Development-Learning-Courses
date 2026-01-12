@@ -1,0 +1,31 @@
+1.
+Question 1
+What is part of the final step when problem solving?
+
+Ans--> Long-term remediation
+
+2.
+Question 2
+Which tool can you use when debugging to look at library calls made by the software?
+
+Ans--> Itrace
+
+3.
+Question 3
+What is the first step of problem solving?
+
+Ans--> Gathering Information
+
+4.
+Question 4
+What software tools are used to analyze network traffic to isolate problems? (Check all that apply)
+
+Ans--> tcpdump, wireshark
+
+5.
+Question 5
+The strace (in Linux) tool allows us to see all of the _____ our program has made.
+
+Ans--> System Calls 
+
+

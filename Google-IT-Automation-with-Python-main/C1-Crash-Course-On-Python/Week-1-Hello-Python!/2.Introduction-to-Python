@@ -1,0 +1,30 @@
+1.
+Question 1
+In the code block below, replace ___ with the Python command to display “My first Python program” on the screen after the command is run.
+Ans--> print("My first Python program")
+
+2.
+Question 2
+Python is an example of what type of programming language?
+Ans--> General Purpose scripting Language
+
+3.
+Question 3
+The code block below contains a Bash command to display “Have a nice day” on the screen. Convert this Bash command to a Python command.
+Ans--> print("Have a nice day")
+
+4.
+Question 4
+In the code block below, replace ___ with the Python command that will display “This is fun!” on the screen 5 times.
+Ans--> for i in range(5):
+  print("This is fun!")
+
+5.
+Question 5
+Why is Python relevant to IT? Select all that apply.
+Ans--> 
+Python is used in fast-growing areas of IT, like machine learning and data analytics.
+Python works well as a scripting language for IT automation.
+Python can be used to calculate statistics, run e-commerce sites, process images, interact with web services, and more.
+
+
